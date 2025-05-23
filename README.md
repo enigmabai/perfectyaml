@@ -5,3 +5,4 @@ https://github.com/liandu2024/little/blob/main/yaml/clash-all-fallback.yaml
 经测试需要的节点选择  完美解决openclash打不开某些网站的bug
 Fake-IP模式选择 加强
 需要手动调节测试各节点 自动 手动 直连
+![Clash -  192 168 11 1](https://github.com/user-attachments/assets/7c88ace5-ef68-4cac-8312-e5fae601c6f5)
